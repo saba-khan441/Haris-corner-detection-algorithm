@@ -1,6 +1,7 @@
 # Haris-corner-detection-algorithm
 # Harris Corner Detection in Images
-      This repository contains a Python implementation for applying Harris Corner Detection to images, detecting corners, and highlighting them with a visual effect. The     project uses OpenCV for image processing and is intended to be run in a Python environment, such as Google Colab.
+This repository contains a Python implementation for applying Harris Corner Detection to images, detecting corners, and highlighting them with a visual effect. The     project uses OpenCV for image processing and is intended to be run in a Python environment, such as Google Colab.
+      
 
 # Features
 _Corner Detection:_ Detects corners in images using the Harris Corner Detection method.
